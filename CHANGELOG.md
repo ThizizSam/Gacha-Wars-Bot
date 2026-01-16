@@ -1,3 +1,12 @@
+# Version 0.30 (1/16/2026):
+  - Added battle command
+      - Battle other users
+      - Added confirmation embed
+      - Added battle background with user avatars to confirmation embed
+      - Created and added default user image (when user does not have discord avatar set)
+      - Store live battles in redis with pair lock
+  - Reformatted select command to work off globalSerial
+
 # Version 0.29 (1/14-1/15 2026):
   - Added select command for battles
   - Added selected command to view currently selected card
