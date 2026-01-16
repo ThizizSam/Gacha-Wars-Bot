@@ -7,6 +7,10 @@
   - Added in app cache for shiny cards
   - Created this changelog D:
   - Added changelog command
+  - Updated paginator display
+  - Updated market sell command
+  - Updated market list default sorting
+  - Added mass remove from market (ex: remove 1,9,15)
 
 # Version 0.28 (1/13/2026):
   - Migrated images to use discord CDN
