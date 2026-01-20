@@ -1,11 +1,18 @@
-# Version 0.30 (1/16/2026):
+# Version 0.30 (1/16-1/19 2026):
   - Added battle command
       - Battle other users
       - Added confirmation embed
       - Added battle background with user avatars to confirmation embed
       - Created and added default user image (when user does not have discord avatar set)
       - Store live battles in redis with pair lock
+      - Battle progression by half a round at a time
+      - Battle progression visually updates every 3 seconds
+      - Added crits and evasion
+      - Added elemental advantages (damage multipliers)
+      - Updates user stats after battle finishes (PvP wins and matches)
   - Reformatted select command to work off globalSerial
+  - Updated hp custom emojis
+  - Updated profile mythbound text
 
 # Version 0.29 (1/14-1/15 2026):
   - Added select command for battles
