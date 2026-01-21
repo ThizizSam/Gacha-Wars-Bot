@@ -1,5 +1,5 @@
-# Version 0.30 (1/16-1/19 2026):
-  - Added battle command
+# Version 0.30 (1/16-1/20 2026):
+  - Added battle command (PvP)
       - Battle other users
       - Added confirmation embed
       - Added battle background with user avatars to confirmation embed
@@ -10,7 +10,15 @@
       - Added crits and evasion
       - Added elemental advantages (damage multipliers)
       - Updates user stats after battle finishes (PvP wins and matches)
-  - Reformatted select command to work off globalSerial
+      - Added buttons (replay and delete) to battle end embed
+      - Added shiny visuals in battle
+      - Added replays
+          - Added full round by round replays
+          - Added buttons to switch rounds
+          - Added timeout when replay expires in DB
+      - Gives coins as reward (random amount)
+      - Gives cards XP as rewards
+  - Reformatted select command to work off globalSerial (internally only)
   - Updated hp custom emojis
   - Updated profile mythbound text
 
