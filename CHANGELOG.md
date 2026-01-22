@@ -1,3 +1,20 @@
+# Version 0.31 (1/21/2026):
+  - Added levels to cards
+      - XP requirement scales
+      - Stats increase every level
+      - Bonus stats every 2nd level by card archetype
+      - Bonus stats shown in card info (if not 0)
+      - Max level 100
+      - Added stat points system
+          - Every 5 levels, get 5 stat points
+          - Use in stat points shop to choose what stat to upgrade
+  - Mods correctly affect battle rewards/stats
+  - Instant DR changed to only work for card with higher def
+  - Fixed shiny image display bug caused by discord lazy image resolve
+  - Added 20 round battle cap and tiebreaker
+      - Tiebreaker uses damage dealt and hp remaining
+  - Updated hp bar visual logic
+
 # Version 0.30 (1/16-1/20 2026):
   - Added battle command (PvP)
       - Battle other users
