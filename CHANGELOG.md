@@ -1,3 +1,14 @@
+# Version 0.32 (2/09/2026):
+  - Fixed major trading bugs
+      - Users both adding cards
+      - Adding cards after confirming
+      - Added 10 card cap per user per trade
+  - Added auto logs
+      - Bot sends log embeds to secure channel
+      - All major DB transactions are logged
+  - Trading/selling cards now unfavorites them
+  - Added series (ss) filter to inventory
+
 # Version 0.31 (1/21/2026):
   - Added levels to cards
       - XP requirement scales
