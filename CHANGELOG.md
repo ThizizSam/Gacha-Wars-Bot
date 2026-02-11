@@ -1,3 +1,19 @@
+# Version 0.33 (2/10/2026):
+  - Added multiple value handling for inventory filters
+  - Added all filters to info command (previously only name)
+      - Rarity, element, ability, series
+  - Fixed bug allowing users to pass as bot in inv command
+  - Added user settings
+  - Added settings command to change your settings
+    - Defaults left as is
+    - Toggle shiny visuals
+    - Toggle detailed card stats
+    - Change inventory sorting method
+      - Ascending/Descending
+      - Serial, rarity, level, mod, series
+  - Made stat point spend confirmation embed ephemeral
+    - Added button removal after spending last point
+
 # Version 0.32 (2/09/2026):
   - Fixed major trading bugs
       - Users both adding cards
@@ -7,7 +23,7 @@
       - Bot sends log embeds to secure channel
       - All major DB transactions are logged
   - Trading/selling cards now unfavorites them
-  - Added series (ss) filter to inventory
+  - Added series (-ss) filter to inventory
 
 # Version 0.31 (1/21/2026):
   - Added levels to cards
