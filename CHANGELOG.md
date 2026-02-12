@@ -1,3 +1,17 @@
+# Version 0.34 (2/11/2026):
+  - Added more inventory sorting methods
+      - Name, element, ability
+  - Reset spent stat points for 1,000 coins
+      - Reset (Inv ID) command
+      - Reset button in stat point shop
+  - Added admin settings
+      - Admin command brings up admin settings embed
+      - Must be admin or have mod role to use
+      - Added mod role customization
+      - Added select channels - bot only responds in selected channels
+          - Default is still all channels
+      - Remove all button for selected channels
+
 # Version 0.33 (2/10/2026):
   - Added multiple value handling for inventory filters
   - Added all filters to info command (previously only name)
