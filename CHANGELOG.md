@@ -1,3 +1,8 @@
+# Version 0.34.5 (2/12/2026):
+  - Fixed major bug with "thank you, next" mod not consuming properly
+  - Added mods command to view the bonuses of all mods
+  - Added visual elements chart to elements command
+
 # Version 0.34 (2/11/2026):
   - Added more inventory sorting methods
       - Name, element, ability
