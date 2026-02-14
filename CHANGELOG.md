@@ -1,3 +1,7 @@
+# Version ?
+  - Added new "badges" and badge custom emoji for profile
+  - Created world "one piece" and all areas and levels for it
+
 # Version 0.34.5 (2/12/2026):
   - Fixed major bug with "thank you, next" mod not consuming properly
   - Added mods command to view the bonuses of all mods
