@@ -1,6 +1,12 @@
-# Version ?
+# Version 0.35 (2/13-2/16 2026):
   - Added new "badges" and badge custom emoji for profile
   - Created world "one piece" and all areas and levels for it
+  - Fixed bug when passing improper page args into inv command
+  - Updated commands to accept a wider variety of syntax for filters
+  - Added world selector
+      - Added paginator for world selector
+      - Each world has an area selector
+          - Each area has a level selector
 
 # Version 0.34.5 (2/12/2026):
   - Fixed major bug with "thank you, next" mod not consuming properly
