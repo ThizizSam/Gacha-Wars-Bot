@@ -1,3 +1,7 @@
+# Version
+  - Added empty worlds object to user data on start command usage
+  - did all pve stuff
+
 # Version 0.35 (2/13-2/16 2026):
   - Added new "badges" and badge custom emoji for profile
   - Created world "one piece" and all areas and levels for it
