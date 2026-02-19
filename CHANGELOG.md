@@ -1,5 +1,6 @@
-# Version
+# Version (2/17-2/18 2026):
   - Added empty worlds object to user data on start command usage
+  - Added back button on stat points shop
   - did all pve stuff
 
 # Version 0.35 (2/13-2/16 2026):
