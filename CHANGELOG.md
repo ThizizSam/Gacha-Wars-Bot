@@ -1,7 +1,32 @@
-# Version (2/17-2/18 2026):
+# Version 0.37 (2/19/2026):
+  - Added "Hidden Levels" requiring user to use a specific card to enter
+  - Added baseCardIds to pulled cards for faster DB lookup
+  - Added pulledIds to user to track what cards they've pulled
+  - Created custom red background x emoji
+  - Created Gachadex to show user's beaten, owned, and pulled cards
+  - Added new user setting dex locations to show where cards are located
+  - Added descriptions of settings into settings embed
+
+# Version 0.36 (2/17-2/18 2026):
   - Added empty worlds object to user data on start command usage
   - Added back button on stat points shop
-  - did all pve stuff
+  - Created all PvE levels, commands, interactions and more
+      - Added all areas and levels to one piece world
+          - Added character pools for each level
+          - Added 'difficulties' on fights
+              - "Elite" +10% attack
+              - "Boss" +10% attack and +10% hp
+          - Added scaling base card difficulty
+          - Added scaling XP through levels
+          - Added stars on level completion
+              - 1 star for completion
+              - 2 stars if no elemental advantage
+              - 3 stars if no elemental advantage and beaten in 5 or less rounds
+          - Added stories before fight which change based on characters
+          - Player's card gets bonus stats if from the world they're fighting
+          - Added automatic completion tracking and badge distribution
+      - Added all commands to access PvE battles
+      - Added all commands also as button interactions 
 
 # Version 0.35 (2/13-2/16 2026):
   - Added new "badges" and badge custom emoji for profile
