@@ -1,3 +1,12 @@
+# Version (2/23/2026):
+  - Created and added new custom soul flame fragment emoji
+  - Added 'character groups'
+  - Reworked special dialogues to work off of character groups
+  - Added soul flame fragments as PvE drops (3-5 per fight)
+  - Added souls command to view your soul flame fragments
+      - Added button to sell from the viewing souls embed
+  - Added souls sell (ID) command to sell souls for 1 coin each
+
 # Version 0.37 (2/19/2026):
   - Added "Hidden Levels" requiring user to use a specific card to enter
   - Added baseCardIds to pulled cards for faster DB lookup
