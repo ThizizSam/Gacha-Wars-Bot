@@ -1,4 +1,4 @@
-# Version (2/23/2026):
+# Version 0.38 (2/23-2/24 2026):
   - Created and added new custom soul flame fragment emoji
   - Added 'character groups'
   - Reworked special dialogues to work off of character groups
@@ -6,6 +6,16 @@
   - Added souls command to view your soul flame fragments
       - Added button to sell from the viewing souls embed
   - Added souls sell (ID) command to sell souls for 1 coin each
+  - Added souls summon command to summon cards
+  - Added souls to trading
+  - Added energy that can be used to farm soul flame fragments
+      - 1 energy per battle
+      - Uses your last beaten battle
+      - Auto regens every 5 minutes
+      - Has a max that increases with player level
+  - Added bt all command to use all energy
+  - Added bt mass (#) command to use (#) energy
+  - Added energy command to view current energy
 
 # Version 0.37 (2/19/2026):
   - Added "Hidden Levels" requiring user to use a specific card to enter
