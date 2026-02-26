@@ -1,3 +1,18 @@
+# Version 0.39 (2/25/2026):
+  - Added bt all and bt mass to auto logs
+  - Added user xp
+  - Added user level ups
+      - Adds +1 max energy (cap 100)
+      - 5 energy refilled
+  - Created and added new one piece badge custom emojis
+  - Added badges command to view your badges
+      - Also works on other players by pinging
+  - Added new badge type (collection)
+      - For each world
+      - Bronze: all epic and under cards
+      - Silver: all legendary and under cards
+      - Gold: all cards
+
 # Version 0.38 (2/23-2/24 2026):
   - Created and added new custom soul flame fragment emoji
   - Added 'character groups'
