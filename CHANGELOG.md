@@ -1,3 +1,16 @@
+# Version 0.39.5 (2/26/2026):
+  - Added soul/coin rewards when getting collection badges
+  - Added DM notify when getting badges
+  - Added coin rewards to bt all and bt mass
+  - Added card prestige
+      - At level 100, card can prestige
+      - Costs (prestige level * 1000) coins
+      - Reset all stats and stat points
+      - Gives 10% stat bonus in battle (multiplicative)
+      - Gives +1 stat point every time they're awarded
+  - Added new 'poisoned' mod
+  - Updated PvE fights to use Area background
+
 # Version 0.39 (2/25/2026):
   - Added bt all and bt mass to auto logs
   - Added user xp
