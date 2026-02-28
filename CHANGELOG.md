@@ -1,3 +1,9 @@
+# Version
+  - Fixed a bug with energy command displaying outdated energy values
+  - Fixed a bug with bt all and bt mass not working on bosses
+  - Added more area backgrounds
+  - Added trade board
+
 # Version 0.39.5 (2/26/2026):
   - Added soul/coin rewards when getting collection badges
   - Added DM notify when getting badges
