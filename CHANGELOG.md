@@ -1,7 +1,12 @@
-# Version
+# Version (2/27-3/ 2026):
   - Fixed a bug with energy command displaying outdated energy values
   - Fixed a bug with bt all and bt mass not working on bosses
+  - Fixed a bug with market level filter
+  - Fixed a bug with market remove all
+  - You can now trash cards in market, it will just remove them
+  - Cards getting removed from a user removes all listings of that card
   - Added more area backgrounds
+  - Added card prestige visibility on most things
   - Added trade board
 
 # Version 0.39.5 (2/26/2026):
