@@ -7,7 +7,11 @@
   - Cards getting removed from a user removes all listings of that card
   - Added more area backgrounds
   - Added card prestige visibility on most things
+  - Added prestige filters for inv and market
+  - Added max price filter for market
+  - Updated inv function to use skip/limit for efficiency
   - Added trade board
+  - Added auctions
 
 # Version 0.39.5 (2/26/2026):
   - Added soul/coin rewards when getting collection badges
