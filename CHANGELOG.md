@@ -1,8 +1,12 @@
-# Version (2/27-3/ 2026):
-  - Fixed a bug with energy command displaying outdated energy values
-  - Fixed a bug with bt all and bt mass not working on bosses
-  - Fixed a bug with market level filter
-  - Fixed a bug with market remove all
+# Version 0.41 ( 2026):
+  - Updated one piece bronze emoji to look more distinguishable from gold.
+
+# Version 0.40 Economy Update (2/27-3/2 2026):
+  - Bug Fixes:
+     - Fixed a bug with energy command displaying outdated energy values
+     - Fixed a bug with bt all and bt mass not working on bosses
+     - Fixed a bug with market level filter
+     - Fixed a bug with market remove all
   - You can now trash cards in market, it will just remove them
   - Cards getting removed from a user removes all listings of that card
   - Added more area backgrounds
@@ -11,7 +15,27 @@
   - Added max price filter for market
   - Updated inv function to use skip/limit for efficiency
   - Added trade board
+      - Post trades to other users!
+      - Add up to 10 specific cards you want to trade for
+      - Accept any of the same rarity
+      - Accept any modded card
+      - Automatically trades when someone offers a card that matches your listing
+      - Trade board views all posted trade listings
+      - Filter trade board by any card filter
+      - Filter trade board by what the posts are looking for
+          - Use -lf filter and rarities (m,rare,etc) or card ids (luffy is 1)
+          - Use -lfm filter to find listings that accept all mods
   - Added auctions
+      - All auctions are 24 hours
+      - Post to the auction house with your starting price
+      - Posts will delete market/trade baord posts
+      - Can not remove posts
+      - If no one bids, you keep your card
+      - Cannot bid on your own auction
+      - Must have the bid amount of coins when placing bid
+      - Bid minimum amount or specify a higher amount
+      - Auctions can be filtered by all card filters
+      - Auctions automatically complete within a minute after expiration
 
 # Version 0.39.5 (2/26/2026):
   - Added soul/coin rewards when getting collection badges
@@ -163,7 +187,7 @@
       - Tiebreaker uses damage dealt and hp remaining
   - Updated hp bar visual logic
 
-# Version 0.30 (1/16-1/20 2026):
+# Version 0.30 Battle Update (1/16-1/20 2026):
   - Added battle command (PvP)
       - Battle other users
       - Added confirmation embed
@@ -280,7 +304,7 @@
   - Added card XP
   - Added trash buttons to most embeds
 
-# Version 0.2 (11/24/2025):
+# Version 0.2 Aesthetic Update (11/24/2025):
   - Updated pulls to an embed
       - Added pull background image
       - Added pull character image
