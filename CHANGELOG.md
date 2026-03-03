@@ -1,5 +1,5 @@
 # Version 0.41 ( 2026):
-  - Updated one piece bronze emoji to look more distinguishable from gold.
+  - Updated one piece bronze badge emoji to look more distinguishable from gold.
 
 # Version 0.40 Economy Update (2/27-3/2 2026):
   - Bug Fixes:
