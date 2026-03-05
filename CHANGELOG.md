@@ -1,5 +1,10 @@
-# Version 0.41 ( 2026):
+# Version 0.41 (3/4 2026):
   - Updated one piece bronze badge emoji to look more distinguishable from gold.
+  - prestige icon emojis
+  - embed util funcs
+  - trade command bugs
+  - market rework
+  - give command
 
 # Version 0.40 Economy Update (2/27-3/2 2026):
   - Bug Fixes:
