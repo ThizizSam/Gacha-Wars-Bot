@@ -5,6 +5,12 @@
   - trade command bugs
   - market rework
   - give command
+  - unified inv id vs gs
+  - added series to numbered info
+  - added single auction page
+  - added auction reminders
+  - added youve been outbid noti dm
+  - clands
 
 # Version 0.40 Economy Update (2/27-3/2 2026):
   - Bug Fixes:
