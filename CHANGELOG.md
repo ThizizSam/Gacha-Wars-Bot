@@ -10,7 +10,8 @@
   - added single auction page
   - added auction reminders
   - added youve been outbid noti dm
-  - clands
+  - new prestige badge emojis
+  - clands ++
 
 # Version 0.40 Economy Update (2/27-3/2 2026):
   - Bug Fixes:
