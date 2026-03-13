@@ -1,5 +1,5 @@
 # Version 0.41 (3/4 2026):
-  - Updated one piece bronze badge emoji to look more distinguishable from gold.
+  - Updated one piece bronze badge emoji to look more distinguishable from gold
   - prestige icon emojis
   - embed util funcs
   - trade command bugs
@@ -11,7 +11,11 @@
   - added auction reminders
   - added youve been outbid noti dm
   - new prestige badge emojis
-  - clands ++
+  - reformat profile
+  - if new user, start journey
+  - clandys +++++
+  - add clans and tickets to profile
+  - add new ticket emoji
 
 # Version 0.40 Economy Update (2/27-3/2 2026):
   - Bug Fixes:
