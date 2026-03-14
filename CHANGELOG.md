@@ -16,6 +16,9 @@
   - clandys +++++
   - add clans and tickets to profile
   - add new ticket emoji
+  - added new energy emoji
+  - added clan tag to pvp
+  - user item inv
 
 # Version 0.40 Economy Update (2/27-3/2 2026):
   - Bug Fixes:
