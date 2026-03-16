@@ -19,6 +19,8 @@
   - added new energy emoji
   - added clan tag to pvp
   - user item inv
+  - added latest command
+  - active boosts cmd
 
 # Version 0.40 Economy Update (2/27-3/2 2026):
   - Bug Fixes:
