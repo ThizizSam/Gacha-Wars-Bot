@@ -21,6 +21,7 @@
   - user item inv
   - added latest command
   - active boosts cmd
+  - display badge
 
 # Version 0.40 Economy Update (2/27-3/2 2026):
   - Bug Fixes:
